@@ -4,7 +4,7 @@
 
 I am a Business and Data Analyst with a Statistics background and ongoing MSc Data Science course at Manchester Metropolitan University.
 
-Currently working as a Data Analyst with Mr. Seun Ajao (Associate Professor in Data Science at Manchester Metropolitan University), contributing to machine learning, analytics, and business intelligence projects.
+Currently contributing to analytics and machine learning projects at Manchester Metropolitan University, working on predictive modelling and data-driven research involving fake news content classification using content and metadata features for AI models.
 
 I also contribute to analytics projects with Betechified Africa and DecodeLabs, working on educational analytics and e-commerce analytics projects.
 
@@ -63,6 +63,7 @@ Worked on educational analytics projects with Betechified Africa to generate per
 ## Certifications
 
 - Fundamentals of Business Analysis – Coursera
+- Data for Business Analyst using Microsoft Excel - Coursera
 - Fundamental of Data Analysis – Betechified Africa
 - Statistical Computing & SPSS – Gateway Training
 
@@ -77,4 +78,4 @@ https://www.linkedin.com/in/faithmoses
 faithcarolinemoses@hotmail.com
 
 🌐 Portfolio:
-https://furry-fruit-462.notion.site/Faith-Caroline-Moses-Business-Data-Analyst-365aa629b0508048b999e0c1b8d24ce8
+datascienceportfol.io/faithcarolinemoses
