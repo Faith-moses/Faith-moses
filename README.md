@@ -1,81 +1,17 @@
-# Hi, I'm Faith Caroline Moses 👋
+# Faith Caroline Moses
 
-## Business & Data Analyst
+**Data Analyst | Statistics | Business Intelligence**
 
-I am a Business and Data Analyst with a Statistics background and ongoing MSc Data Science course at Manchester Metropolitan University.
+I analyse data and turn findings into clear reports and dashboards. I hold a BSc in Statistics and have completed the MSc Data Science programme at Manchester Metropolitan University; results are due in October 2026. I work with an MMU lecturer as a data analyst and have completed a 16-week BeTechified data analytics training programme.
 
-Currently contributing to analytics and machine learning projects at Manchester Metropolitan University, working on predictive modelling and data-driven research involving fake news content classification using content and metadata features for AI models.
+### Tools and methods
 
-I also contribute to analytics projects with Betechified Africa and DecodeLabs, working on educational analytics and e-commerce analytics projects.
+Python (pandas, scikit-learn) · SQL · Excel · Power BI · Tableau · R · SPSS · Data cleaning · Exploratory analysis · Data visualisation · Statistical analysis
 
----
+### Selected work
 
-## Core Skills
+- **Vehicle pricing analysis:** Explored a large AutoTrader dataset and compared predictive approaches to understand price drivers.
+- **Sales and performance dashboards:** Built analyses and visualisations for sales, profitability and education datasets using Excel, Power BI and Tableau.
+- **Research analysis:** Work with an MMU lecturer as a data analyst on research tasks and analysis.
 
-### Data Analytics
-- Excel
-- SQL
-- Python
-- R
-- SPSS
-
-### Business Intelligence & Visualization
-- Power BI
-- Tableau
-- Dashboard Development
-- Reporting & Insights
-
-### Machine Learning & Statistics
-- Regression Models
-- Decision Trees
-- KNN
-- Feature Selection (RFECV)
-- Hypothesis Testing
-- Logistic Regression
-
-### Cloud & Technical Tools
-- Microsoft Azure
-- Jupyter Notebook
-- HPC (OMP & MPI)
-- GitHub
-
----
-
-## Featured Projects
-
-### 🚗 AutoTrader Machine Learning Analysis
-EDA and predictive modelling project using a large AutoTrader dataset containing over 400,000 records. Applied regression models, KNN, Decision Trees, SHAP/PDP, RFECV, and Isomap techniques.
-
-### 📊 Business Intelligence Dashboard Projects
-Developed dashboard and reporting projects using Power BI, Tableau, and Excel for sales, KPI, and profitability analysis.
-
-### ☁️ Azure End-to-End Data Pipeline
-Built a cloud-based data pipeline using OpenWeather API and Microsoft Azure technologies.
-
-### 🛍 E-commerce Analytics Project
-Analyzed customer and business trends using e-commerce datasets in collaboration with DecodeLabs.
-
-### 🎓 Educational Performance Analytics
-Worked on educational analytics projects with Betechified Africa to generate performance insights and support decision-making.
-
----
-
-## Certifications
-
-- Fundamentals of Business Analysis – Coursera
-- Data for Business Analyst using Microsoft Excel - Coursera
-- Fundamental of Data Analysis – Betechified Africa
-- Statistical Computing & SPSS – Gateway Training
-
----
-
-## Connect With Me
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/faithmoses
-
-📧 Email:
-faithcarolinemoses@hotmail.com
-
-🌐 Portfolio:
-datascienceportfol.io/faithcarolinemoses
+Explore my [repositories](https://github.com/Faith-moses?tab=repositories) and connect with me on [LinkedIn](https://www.linkedin.com/in/faith-moses-b81420431/).
