@@ -2,7 +2,7 @@
 
 **Data Analyst | Statistics | Business Intelligence**
 
-I analyse data and turn findings into clear reports and dashboards. My background includes a BSc in Statistics and MSc Data Science study at Manchester Metropolitan University (September 2025–September 2026). I work with an MMU lecturer as a data analyst and have completed a 16-week BeTechified data analytics training programme.
+I analyse data and turn findings into clear reports and dashboards. My background includes a BSc in Statistics and MSc Data Science study at Manchester Metropolitan University. I work with an MMU lecturer as a data analyst and have completed a 16-week BeTechified data analytics training programme.
 
 ### Tools and methods
 
